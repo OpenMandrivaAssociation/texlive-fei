@@ -1,5 +1,5 @@
 Name:		texlive-fei
-Version:	59589
+Version:	65352
 Release:	1
 Summary:	Class for academic works at FEI University Center -- Brazil
 Group:		Publishing
