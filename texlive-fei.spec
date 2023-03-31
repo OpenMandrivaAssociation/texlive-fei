@@ -1,6 +1,6 @@
 Name:		texlive-fei
 Version:	65352
-Release:	1
+Release:	2
 Summary:	Class for academic works at FEI University Center -- Brazil
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fei
